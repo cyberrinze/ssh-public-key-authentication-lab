@@ -43,31 +43,34 @@ XAMPP was started on the Windows VM and Apache was used as the web server.
 
 The web server was tested from inside the Windows VM to confirm that Apache was running correctly.
 
-![Web Server](screenshots/02-web-server-vm.png)
+![Web Server](githubpicture2.pdf)
 
 ### 3. Configure the Firewall
 
 The Windows firewall was checked to demonstrate that external access to the web server was being blocked.
 
-![Firewall](screenshots/03-firewall-blocking.png)
+![Firewall](github3.pdf)
 
 ### 4. Configure Remote Port Forwarding
 
 PuTTY was configured to establish the SSH remote port forwarding tunnel.
 
-![PuTTY Port Forwarding](screenshots/04-putty-port-forwarding.png)
+![PuTTY Port Forwarding](github4.5.pdf)
+
+![PuTTY Port Forwarding](github4.6.pdf)
+
 
 ### 5. Establish the SSH Connection
 
 An SSH connection was successfully established using the SSH user account created on the host machine.
 
-![SSH Login](screenshots/05-ssh-login.png)
+![SSH Login](github5.pdf)
 
 ### 6. Verify the Tunnel
 
 The final step was testing the connection to verify that the SSH remote port forwarding tunnel was working.
 
-![Tunnel Working](screenshots/06-tunnel-working.png)
+![Tunnel Working](github6.pdf)
 
 ## What I Learned
 
