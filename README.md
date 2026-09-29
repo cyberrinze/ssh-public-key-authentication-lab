@@ -37,7 +37,7 @@ The SSH connection was then used to create a remote port forwarding tunnel betwe
 
 XAMPP was started on the Windows VM and Apache was used as the web server.
 
-![XAMPP Running](screenshots/01-xampp-running.png)
+![Web Server](picture1github.pdf)
 
 ### 2. Verify the Web Server
 
